@@ -278,5 +278,5 @@ for(i=0; i<characters.length; i++){
   Crea una funzionalità che prenda un elemento casuale dall'array "starWarsCharacters" e ne stampi in console le proprietà in modo discorsivo (a tuo piacimento).
 */
 
-let item = items[Math.floor(Math.random()*starWarsCharacters.length)];
+//let item = items[Math.floor(Math.random()*starWarsCharacters.length)];
 
